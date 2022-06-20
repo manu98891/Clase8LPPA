@@ -30,5 +30,3 @@ let string6 = string4.indexOf(" ");
 console.log("")
 console.log("Ejercicio 2.3")
 console.log(string6)
-console.log("")
-console.log("-------------------------------------------------------------")
